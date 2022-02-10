@@ -55,4 +55,5 @@ TAP INI: [![GenerateString](https://img.shields.io/badge/repl.it-generateString-
   </a>
 
 ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Jancukmu/KaizenMusic&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,BOT_NAME,BG_IMAGE,THUMB_IMG,GROUP_SUPPORT,ASSISTANT_NAME,OWNER_NAME,OWNER_ID,UPDATES_CHANNEL,API_ID,API_HASH,PMPERMIT,SUDO_USERS,DURATION_LIMIT)
+  
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/erickskynet/killerbotmusik&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,BOT_NAME,BG_IMAGE,THUMB_IMG,GROUP_SUPPORT,ASSISTANT_NAME,OWNER_NAME,OWNER_ID,UPDATES_CHANNEL,API_ID,API_HASH,PMPERMIT,SUDO_USERS,DURATION_LIMIT)
