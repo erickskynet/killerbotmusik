@@ -1,9 +1,6 @@
-<h2 align="centre">☣️ Kaizen Music Bot</h2>
+<h2 align="centre">☣️ Killer Music Bot</h2>
 
 *** Music bot yang dapat memutar di obrolan suara  group telegram anda.
-<p align="center"><a href="https://t.me/Hajigobangbot"><img src="https://telegra.ph/file/6447deaec9fc365cd6d1e.jpg" width="300"></a></p>
-
-</p>
 
 <h3>Requirements 📖</h3>
 
