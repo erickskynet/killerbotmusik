@@ -59,15 +59,3 @@ TAP INI: [![GenerateString](https://img.shields.io/badge/repl.it-generateString-
 
 *** Support & Updates 💌
 <a href="https://t.me/kaizensupport"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/zen_update"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-
-### Credits ❤
-
-- **[Kaizen](https://github.com/muhammadDimas12)** (Dev)    
-- **[TG MUSICS](https://github.com/TG-Musics)** (Organization)
-- **Vivek** (Dev)
-- **Aswin Raj** (Helper)
-- **Jayant Hegde Kageri** (Dev)
-- **Fayas** (Helper)
-- **RabbitFoRed** (Dev)
-- **Itz-Fork** (Y)
-- **Uvindu Bro** (Helper)
